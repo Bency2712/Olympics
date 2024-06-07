@@ -1,2 +1,2 @@
-# Architecture Diagram
+^Architecture Diagram
 ![Architecture Diagram](architecture.png)
